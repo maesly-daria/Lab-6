@@ -1,0 +1,48 @@
+.bg-grey {
+    background-color: #eaecf0;
+}
+.line{
+    margin:  auto;
+    background-color: #851f9e;
+    height: 4px;
+    width: 400px;
+    margin-top: 20px;
+
+}
+.text-blue {
+    color: #84dbff;
+}
+
+.technology .img-fluid {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+.kra{
+   height: 300px;
+}
+
+header {
+    background-color: black;
+    color: #ffffff;
+}
+
+.nav-link {
+    color: #ffffff;
+    margin-right: 30px;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+#contacts p a {
+    color: #ffffff;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #851f9e;
+    border: 2px solid #851f9e;
+}
